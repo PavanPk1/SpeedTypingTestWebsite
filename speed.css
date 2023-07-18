@@ -1,0 +1,53 @@
+.bg-container {
+    background-image: linear-gradient(to right, #dac0ff, #f3eaff);
+}
+
+.heading {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.timeImage {
+    height: 70px;
+    width: 70px;
+}
+
+.typingTestArea {
+    padding: 5px;
+    background-color: #f3eaff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dac0ff;
+    border-radius: 15px;
+}
+
+.textareaEl {
+    background-color: #f3eaff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #FBF81F;
+}
+
+.timer {
+    font-size: 40px;
+    color: #3e4c59;
+}
+
+.resultPara {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.testQuestion {
+    color: #3e4c59;
+    font-family: "Bree Serif";
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#resetBtn {
+    background-color: #ffffff;
+}
